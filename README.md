@@ -1,47 +1,51 @@
 🎬 Projeto Filme
-🎥 Filme escolhido
 
-[Nome do filme]
+Projeto desenvolvido para a atividade de Desenvolvimento Web, utilizando HTML5.
 
-👨‍💻 Nome do aluno
+👨‍💻 Aluno
 
 Danielli Gonçalves Martins
 
-📚 Curso/Turma
+📚 Curso/Turma: 1ID-DS
 
-1ID-DS
+🎥 Filme escolhido
+[NOME DO FILME]
 
-🎯 Objetivo do projeto
+Página web desenvolvida com o objetivo de apresentar informações sobre um filme escolhido, utilizando as principais tags HTML estudadas em aula.
 
-Nesta atividade, foi desenvolvida uma página web sobre um filme escolhido, colocando em prática os conhecimentos aprendidos em aula sobre HTML.
+🎯 Objetivo
 
-O objetivo é criar uma página HTML utilizando corretamente as principais tags estudadas, organizando informações, imagens, textos e links de forma estruturada.
+O objetivo do projeto é colocar em prática os conhecimentos de HTML, desenvolvendo uma página web estruturada com:
 
-💻 Requisitos da atividade
+Título da página;
+Títulos e subtítulos;
+Imagem;
+Informações sobre o filme;
+Sinopse;
+Links externos.
+📋 Informações apresentadas
 
-A página deverá conter obrigatoriamente:
+A página contém as seguintes informações sobre o filme:
 
-Utilização da tag <title></title>;
-Utilização da tag <h1>;
-Uma imagem relacionada ao filme escolhido;
-Utilização da tag <h2> para apresentar:
-Ano de produção;
-Diretor;
-Duração;
-Classificação;
-Gênero;
-País de origem;
-Utilização da tag <p> para apresentar a sinopse do filme;
-Utilização da tag <a> para adicionar um link com mais informações sobre o filme.
-🎥 Escolha do filme
+Informação	Descrição
+📅 Ano de produção	Ano em que o filme foi lançado
+🎬 Diretor	Diretor responsável pela produção
+⏱️ Duração	Tempo de duração do filme
+🔞 Classificação	Classificação indicativa
+🎭 Gênero	Gênero cinematográfico
+🌎 País de origem	País onde o filme foi produzido
+📝 Sinopse
 
-O filme escolhido para o desenvolvimento do projeto foi:
+A página apresenta uma sinopse do filme, resumindo sua história e seus principais acontecimentos.
 
-[Nome do filme]
+Também foi incluído um link externo para uma página com mais informações sobre a produção.
 
-As informações utilizadas na página foram pesquisadas para apresentar os principais dados sobre a produção cinematográfica.
-
-📁 Organização do projeto
+🛠️ Tecnologias utilizadas
+HTML5
+Visual Studio Code
+Git
+GitHub
+📁 Estrutura do projeto
 projeto-filme/
 │
 ├── index.html
@@ -51,24 +55,21 @@ projeto-filme/
 │
 └── README.md
 
-🛠️ Tecnologias utilizadas
-HTML5
-Visual Studio Code
-Git
-GitHub
-📌 Breve descrição da página desenvolvida
+🌐 Página desenvolvida
 
-A página desenvolvida apresenta informações sobre o filme escolhido, incluindo seu título, imagem, ano de produção, diretor, duração, classificação, gênero, país de origem e sinopse.
+A página principal do projeto está disponível no arquivo:
 
-Também foi adicionado um link para uma página externa com mais informações sobre o filme.
+index.html
 
-O projeto foi desenvolvido com HTML5, utilizando as principais tags estudadas em aula para criar uma página simples, organizada e estruturada.
+Nela estão presentes todas as informações solicitadas na atividade, seguindo a estrutura proposta.
 
-🎓 Informações acadêmicas
-Informação	Dados
-👨‍💻 Aluno	Danielli Gonçalves Martins
-📚 Curso/Turma	1ID-DS
-🎬 Projeto	Página web sobre um filme
-🌐 Tecnologia	HTML5
+📚 Atividade acadêmica
 
-Projeto desenvolvido para fins acadêmicos.
+Este projeto foi desenvolvido como parte das atividades do curso 1ID-DS, com o objetivo de praticar a criação e estruturação de páginas web utilizando HTML5.
+
+<div align="center">
+
+Danielli Gonçalves Martins
+1ID-DS
+
+</div>
